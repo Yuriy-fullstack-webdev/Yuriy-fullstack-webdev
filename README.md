@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ##### HTML5 & CSS3
 
-###### Certificate HTML5: [![Certificate HTML5](/img/1.png "Certificate HTML5")](https://ru.w3docs.com/quiz/certificate/6/88/1757240928/Yuriy%20Sopun/49bc2a24d077ce6aca4fa88900bf910e?version=1)
+<a href="https://ru.w3docs.com/quiz/certificate/6/88/1757240928/Yuriy%20Sopun/49bc2a24d077ce6aca4fa88900bf910e?version=1" target="_blank"><img src="/img/1.png" alt="Certificate HTML5" width="40" height="15"/></a>
