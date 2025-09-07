@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **Yuriy-fullstack-webdev/Yuriy-fullstack-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Education
+## Education
 
-#### Courses
+### Courses
 
 #### Certificates & Diplomas
 
-<a href="https://ru.w3docs.com/quiz/certificate/6/88/1757240928/Yuriy%20Sopun/49bc2a24d077ce6aca4fa88900bf910e?version=1">
-  <img src="https://example.com/images/certifikat-html-1.jpg" alt="Сертификат HTML5" width="70" height="46" />
-</a>
+[![Certificate HTML5](https://ru.w3docs.com/quiz/certificate/6/88/1757240928/Yuriy%20Sopun/49bc2a24d077ce6aca4fa88900bf910e?version=1)](https://link_to_certificate)
 
 ##### HTML5 & CSS3
