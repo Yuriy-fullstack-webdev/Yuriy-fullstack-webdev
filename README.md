@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 #### Certificates & Diplomas
 
-[![Certificate HTML5](https://ru.w3docs.com/quiz/certificate/6/88/1757240928/Yuriy%20Sopun/49bc2a24d077ce6aca4fa88900bf910e?version=1)](https://link_to_certificate)
-
 ##### HTML5 & CSS3
+
+[![Certificate HTML5](https://ru.w3docs.com/quiz/certificate/6/88/1757240928/Yuriy%20Sopun/49bc2a24d077ce6aca4fa88900bf910e?version=1)](https://ru.w3docs.com/quiz/certificate/6/88/1757240928/Yuriy%20Sopun/49bc2a24d077ce6aca4fa88900bf910e?version=1)
