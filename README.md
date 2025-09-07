@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Education
+
+#### Courses
+
+#### Certificates & Diplomas
+
+[Certificates HTML5 Basic](https://ru.w3docs.com/quiz/certificate/6/88/1757240928/Yuriy%20Sopun/49bc2a24d077ce6aca4fa88900bf910e?version=1)
+![alt](img/certifikat-html-1.jpg "certifikat-html" =70x45)
+##### HTML5 & CSS3
