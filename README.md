@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 #### Certificates & Diplomas
 
 [Certificates HTML5 Basic](https://ru.w3docs.com/quiz/certificate/6/88/1757240928/Yuriy%20Sopun/49bc2a24d077ce6aca4fa88900bf910e?version=1)
-![[img/certifikat-html-1.jpg|70x45]]
+![alt](https://ru.w3docs.com/quiz/certificate/6/88/1757240928/Yuriy%20Sopun/49bc2a24d077ce6aca4fa88900bf910e?version=1 "Certificates HTML5 Basic" =70x46)
 
 ##### HTML5 & CSS3
